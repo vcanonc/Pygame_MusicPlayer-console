@@ -1,8 +1,3 @@
-""" Reproductor de Música .v2
-    Grupo 3
-    Programación Orientada a Objetos
-    2021-2
-"""
 import os
 from pygame import mixer
 from random import choice
